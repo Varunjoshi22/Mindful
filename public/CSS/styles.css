@@ -1,0 +1,22 @@
+body {
+	background-image: linear-gradient(to right, #a4ebf3, #ccf2f4);
+}
+
+.navbar {
+	padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+	font-size: 2.5rem;
+	font-weight: bold;
+}
+
+.navbar-nav {
+	margin-left: auto;
+}
+.navbar-item {
+	padding: 0 18px;
+}
+.nav-link {
+	font-size: 1.2rem;
+}
